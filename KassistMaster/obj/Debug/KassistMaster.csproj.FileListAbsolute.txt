@@ -1,0 +1,11 @@
+D:\RC\stm8s\Kassist\KassistMaster\KassistMaster\bin\Debug\KassistMaster.exe.config
+D:\RC\stm8s\Kassist\KassistMaster\KassistMaster\bin\Debug\KassistMaster.exe
+D:\RC\stm8s\Kassist\KassistMaster\KassistMaster\bin\Debug\KassistMaster.pdb
+D:\RC\stm8s\Kassist\KassistMaster\KassistMaster\obj\Debug\KassistMaster.csprojResolveAssemblyReference.cache
+D:\RC\stm8s\Kassist\KassistMaster\KassistMaster\obj\Debug\KassistMaster.Properties.Resources.resources
+D:\RC\stm8s\Kassist\KassistMaster\KassistMaster\obj\Debug\KassistMaster.UserControl1.resources
+D:\RC\stm8s\Kassist\KassistMaster\KassistMaster\obj\Debug\KassistMaster.csproj.GenerateResource.Cache
+D:\RC\stm8s\Kassist\KassistMaster\KassistMaster\obj\Debug\KassistMaster.exe
+D:\RC\stm8s\Kassist\KassistMaster\KassistMaster\obj\Debug\KassistMaster.pdb
+D:\RC\stm8s\Kassist\KassistMaster\KassistMaster\obj\Debug\KassistMaster.Kassit.resources
+D:\RC\stm8s\Kassist\KassistMaster\KassistMaster\obj\Debug\KassistMaster.OutputConfig.resources
